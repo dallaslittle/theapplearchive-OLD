@@ -14,6 +14,6 @@ Click [here](https://photos.google.com/share/AF1QipNNQyeVrqxBdNmBkq9ILswizuj-RYJ
 
 _____
 
-Credit for the albums: u/nucleam
+Album Credit: u/nucleam
 
 [Return Home](theapplearchive.github.io)

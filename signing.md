@@ -18,7 +18,7 @@ _____
 
 [Ignition.fun](http://ignition.fun)
 
-[Jailbreaks.fun](http://jailbreaks.fun)
+[iOS.Ninja](https://iosninja.io/app)
 
 _____
 

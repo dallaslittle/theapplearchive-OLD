@@ -12,7 +12,7 @@ You will no longer be prompted to update.
 
 _____
 
-### [Jailbreak](https://theapplearchive.github.io/jailbreak)
+### [Jailbreaking](https://theapplearchive.github.io/jailbreak)
 
 Here you will find available jailbreaks.
 

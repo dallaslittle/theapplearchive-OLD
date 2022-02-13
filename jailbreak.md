@@ -4,7 +4,7 @@ _____
 
 Listed below are all available jailbreaking tools for recent versions of iOS and tvOS.
 
-Legacy jailbreaking options can be found [here]().
+For jailbreaking older versions, information can be found on the Legacy Jailbreaking page [here]().
 
 _____
 

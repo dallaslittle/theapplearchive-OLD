@@ -1,68 +1,63 @@
-# Jailbreak
+# Jailbreaking
 
 _____
 
-### Method #1 (No Computer Required)
+Listed below are all available jailbreaking tools for recent versions of iOS and tvOS.
+
+Legacy jailbreaking options can be found [here]().
 
 _____
 
-### iOS 12
+## iOS/iPadOS 14 jailbreaks:
 
-Install Unc0ver Jailbreak for iOS 12.0 - 12.1.2 [here](itms-services://?action=download-manifest&url=https://ignition.fun/install.php%3Fapp%3D350)
+### checkra1n
 
-### iOS 11
+Supported: iOS/iPadOS 14.0 - 14.8.1
+Check the full chart for device exclusions
 
-Install Unc0ver Jailbreak for iOS 11.0 - 11.4.1 [here](itms-services://?action=download-manifest&url=https://ignition.fun/install.php%3Fapp%3D350)
+### Taurine
 
-Install Electra Jailbreak for iOS 11.3.1 - 11.4.1 [here](itms-services://?action=download-manifest&url=https://ignition.fun/install.php%3Fapp%3D349)
+Supported: iOS/iPadOS 14.0 - 14.3
 
-Install Electra Jailbreak for iOS 11.0 - 11.1.2 [here](itms-services://?action=download-manifest&url=https://ignition.fun/install.php%3Fapp%3D34)
+### unc0ver
 
-### iOS 10
+Supported: iOS/iPadOS 14.0 - 14.8
+Some devices untethered - check the full chart for details and device exclusions
 
-Install Doubleh3lix Jailbreak for iOS 10.0 - 10.3.3 [here](itms-services://?action=download-manifest&url=https://ignition.fun/install.php%3Fapp%3D31)
+## iOS/iPadOS 13 jailbreaks:
 
-Install Yalu Jailbreak for iOS 10.0 - 10.2 [here](itms-services://?action=download-manifest&url=https://ignition.fun/install.php%3Fapp%3D181)
+### checkra1n
 
-Install Meridian Jailbreak for iOS 10.0 - 10.3.3 [here](itms-services://?action=download-manifest&url=https://ignition.fun/install.php%3Fapp%3D106)
+Supported: iOS/iPadOS 13.0 - 13.7
+Check the full chart for device exclusions
 
-_____
+### Odyssey
 
-### Method #2 (Computer Required)
+Supported: iOS/iPadOS 13.0 - 13.7
 
-If the above links are broken, method #2 can always be used.
+### unc0ver
 
-_____ 
+Supported: iOS/iPadOS 13.0 - 13.7
 
-### Tutorial
+## tvOS Jailbreaks
 
-1. Download and install Cydia Impactor. (linked below)
-2. Download and install the jailbreak IPA (app) for your iOS version. (linked below)
-3. Open Cydia Impactor and drag your IPA file onto the Cydia Impactor infterface.
-4. Sign in with your Apple ID credentials to sign the application. (your details are only sent to Apple servers, but a burner account can be used as well)
-6. Navigate to Settings > General > Device Management on your iOS device to trust the application.
+### checkra1n
 
-_____
+Supported: tvOS 12.0 - 14.8
 
-### Cydia Impactor
+### ChimeraTV
 
-Download Cydia Impactor to install the jailbreak application. (Available on Windows and Mac)
+Supported: tvOS: 12.0-12.2, 12.4
 
-Download [here](http://www.cydiaimpactor.com/)
+### unc0verTV
 
-_____
+Supported: tvOS: 11.0-13.4.5, 13.4.8 Beta 1
 
-### IPA Links
+## audioOS Jailbreaks
 
-iOS 12.0 - 12.1.2 - Download Unc0ver [here](https://github.com/pwn20wndstuff/Undecimus/releases/download/v3.0.0%25b48/Undecimus-v3.0.0-b48.ipa)
+### checkra1n
 
-iOS 11.0 - 11.4.1 - Download unc0ver [here](https://github.com/pwn20wndstuff/Undecimus/releases/download/v3.0.0%25b48/Undecimus-v3.0.0-b48.ipa)
-
-
-
-
-
-
+Supported: audioOS 13.0 - 14.x
 
 _____
 
